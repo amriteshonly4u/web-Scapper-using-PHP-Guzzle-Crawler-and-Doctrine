@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/css-selector": "^4.1",
+        "doctrine/dbal": "^2.8"
+    }
+}
